@@ -5,8 +5,6 @@ A curated list of Torrent Tracker Scripts written in multiple coding languages
 ## Frontend+Backend
 - [UNIT3D](https://github.com/UNIT3D/UNIT3D) - Complete Private Torrent Tracker built on the Laravel Framework.
 
-- [Pu-239](https://github.com/darkalchemy/Pu-239) - A rewrite of the popular torrent tracker U-232.
-
 - [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) - PHP Torrent Tracker Script built off the original XBTIT. 
 
 - [rartracker](https://github.com/swetorrentking/rartracker) - Complete private bittorrent tracker written in PHP and AngularJS.
